@@ -12,6 +12,6 @@
 - Date & Time Display
   - dayHeaderContent
 - Date Clicking & Selecting
-  - dateClick
+  - dateClickㄷㅁㄴㅇㅁㄴㅇ
 - Event Sources
   - events (as a json feed)
